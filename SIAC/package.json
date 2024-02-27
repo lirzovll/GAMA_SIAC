@@ -1,0 +1,19 @@
+{
+  "name": "siac",
+  "version": "1.0.0",
+  "description": "sitema de administracion de condominios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lirzov11/GAMA_SIAC.git"
+  },
+  "author": "GAMA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lirzov11/GAMA_SIAC/issues"
+  },
+  "homepage": "https://github.com/lirzov11/GAMA_SIAC#readme"
+}
